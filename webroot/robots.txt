@@ -1,0 +1,19 @@
+User-Agent: *
+Disallow: /cgi-bin
+Disallow: /split
+
+User-agent: Yahoo
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: Mediapartners-Google
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+Sitemap: http://volt-cars.com.ua/sitemap/
+
+Host: volt-cars.com.ua

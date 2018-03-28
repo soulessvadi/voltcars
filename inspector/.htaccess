@@ -1,0 +1,6 @@
+AddDefaultCharset UTF-8
+
+RewriteEngine on
+RewriteBase /volt-cars.com.ua/inspector/
+
+RewriteRule ^(.*)/$ /volt-cars.com.ua/inspector/index.php 

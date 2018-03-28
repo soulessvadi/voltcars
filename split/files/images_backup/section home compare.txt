@@ -1,0 +1,41 @@
+<div class="container">
+		<h3>Электромобиль - <span>идеальный автомобиль <br />для городской езды</span></h3>
+		<div class="col-lg-6 col-md-6">
+			<div class="wrap_pe wrap">
+				<p class="price_petrol">214 грн</p>
+				<hr />
+				<p class="distance_petrol">На 100 км</p>
+			</div>
+		</div>
+		<div class="col-lg-6 col-md-6">
+			<div class="wrap_el wrap">
+				<p class="price_electro">15 грн</p>
+				<hr />
+				<p class="distance_electro">На 100 км</p>
+			</div>
+		</div>
+
+		<div class="col-lg-6 col-md-6">
+			<div class="economy_petrol">
+				<p><span>214</span> грн/день</p>
+				<p><span>78 110</span> грн/год</p>
+			</div>
+
+			<div class="economy_petrol_m">
+				<p class="fst">214<span>|</span>15</p>
+				<p class="sec">грн/день</p>
+			</div>
+		</div>
+
+		<div class="col-lg-6 col-md-6">
+			<div class="economy_electro">
+				<p><span>15</span> грн/день</p>
+				<p><span>5 475</span> грн/год</p>
+			</div>
+
+			<div class="economy_electro_m">
+				<p class="fst">78 110<span>|</span>5 475</p>
+				<p class="sec">грн/год</p>
+			</div>
+		</div>
+	</div>
